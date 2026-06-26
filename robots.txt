@@ -1,0 +1,7 @@
+# Boochie's Slots and Video Poker
+# Allow all crawlers full access
+
+User-agent: *
+Allow: /
+
+Sitemap: https://boochiesslotsandvideopoker.com/sitemap.xml
