@@ -4,4 +4,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://boochiesslotsandvideopoker.com/sitemap.xml
+Sitemap: https://boochiesplace.com/sitemap.xml
