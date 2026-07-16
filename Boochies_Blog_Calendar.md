@@ -9,7 +9,7 @@
 
 ## Month 1
 
-### Post 1 — ☐ (publish ~1st)
+### Post 1 — ☑ (publish ~1st)
 - **Target keyword:** slots in Champaign IL
 - **Title:** `Where to Play Slots in Champaign, IL: A Local's Guide`
 - **Slug:** `/blog/play-slots-champaign-il`
@@ -18,7 +18,7 @@
 - **Internal links:** Home, Games, Visit
 - **Meta description:** Looking to play slots in Champaign, IL? Here's a local's guide to gaming cafés — and what makes Boochie's a clean, friendly 21+ spot. Open late.
 
-### Post 2 — ☐ (publish ~11th)
+### Post 2 — ☑ (publish ~11th)
 - **Target keyword:** slots vs video poker
 - **Title:** `Slots vs. Video Poker: Which Should You Play?`
 - **Slug:** `/blog/slots-vs-video-poker`
@@ -27,7 +27,7 @@
 - **Internal links:** Games, Home
 - **Meta description:** Slots vs. video poker — what's the difference and which is right for you? A simple, no-jargon breakdown, then come try both at Boochie's in Champaign.
 
-### Post 3 — ☐ (publish ~21st)
+### Post 3 — ☑ (publish ~21st)
 - **Target keyword:** how video gaming terminals work in Illinois
 - **Title:** `How Video Gaming Terminals Work in Illinois (Plain-English Guide)`
 - **Slug:** `/blog/how-video-gaming-terminals-work-illinois`
